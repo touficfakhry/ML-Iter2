@@ -3,3 +3,4 @@ csv_files/
 datasets/
 .idea
 __pycache__
+.csv
